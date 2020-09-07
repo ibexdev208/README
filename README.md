@@ -59,10 +59,3 @@
 
 <img  src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
-  
-  
-
-## **Conect with on:**
-
-[<img  src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>]([http://example.com/](http://example.com/))
-[<img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>]([http://example.com/](http://example.com/))
