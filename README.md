@@ -19,7 +19,7 @@
 
 ## **Languages**
 
-[<img  src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/ibexdev208/java title="Github Java codes")
+[<img  src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/ibexdev208/java "Github Java codes")
 [<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=white&amp;style=for-the-badge">](https://github.com/ibexdev208/javascript "Github JS codes")
 <img  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
