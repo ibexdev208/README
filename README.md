@@ -39,8 +39,8 @@
 
 ## **Frameworks & Libraries**
 
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=white&amp;style=for-the-badge">
-<img  src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+[<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=white&amp;style=for-the-badge">](https://github.com/ibexdev208/javascript/tree/master/react "Gitbub React project")
+[<img  src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>](https://github.com/ibexdev208/java "Gitbub Spring Boot project")
 
   
 
